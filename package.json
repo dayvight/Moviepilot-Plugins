@@ -1,8 +1,6 @@
 {
-  "name": "moviepilot-titleinitial-plugin",
-  "private": true,
+  "name": "MoviePilot-Plugins",
   "version": "1.0.0",
-  "type": "module",
   "plugins": [
     {
       "id": "titleinitial",
