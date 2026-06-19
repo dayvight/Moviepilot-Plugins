@@ -1,0 +1,9 @@
+{
+  "titleinitial": {
+    "name": "标题首字母注入",
+    "description": "在重命名模板中注入标题首字母变量 {{initial}}，用于文件夹首字母分类前缀。",
+    "version": "1.0",
+    "author": "MoviePilot Agent",
+    "icon": "https://raw.githubusercontent.com/InfinityPacer/MoviePilot-Plugins/main/icons/smartrename.png"
+  }
+}
